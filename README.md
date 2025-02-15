@@ -14,7 +14,7 @@ Este proyecto es una aplicación web de una tienda en línea desarrollada con **
 
 ## 📂 Estructura del Proyecto
 ```
-OnlineStore/
+demo/
 │── src/main/java/com/ejemplo/demo/
 │   ├── controllers/         # Controladores Spring MVC
 │   ├── forms/               # Clases de formulario y validación
@@ -45,8 +45,8 @@ OnlineStore/
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/KevinQzG/OnlineStore.git
-cd OnlineStore
+git clone https://github.com/KevinQzG/SpringBootTutorials
+cd demo
 ```
 
 ### 2️⃣ Configurar el Proyecto con Spring Initializr (opcional)
