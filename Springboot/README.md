@@ -10,7 +10,6 @@ Este proyecto es una aplicación web de una tienda en línea desarrollada con **
 - **Bootstrap 5** para el diseño responsivo
 - **Jakarta Validation** para validación de formularios
 - **Spring MVC** para la gestión de rutas
-- **Spring Data JPA** (opcional, si se agrega persistencia en base de datos)
 
 ## 📂 Estructura del Proyecto
 ```
